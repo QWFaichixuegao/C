@@ -1,0 +1,6 @@
+数组从第0位开始存数可用%的方法
+void  save_data(uchar ch)
+uchar arry[9]
+int flow a
+arry[a]= ch
+a=(a+1)%9
